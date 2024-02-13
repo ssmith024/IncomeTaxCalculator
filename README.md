@@ -1,5 +1,3 @@
-Income Tax Calculator
-
 This is a simple web application that allows users to calculate their income tax based on their taxable income and filing status. The application provides both a form for inputting the taxable income and a table displaying the tax rates for different filing statuses.
 Features
 
